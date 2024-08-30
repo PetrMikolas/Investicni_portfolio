@@ -1,5 +1,5 @@
 # Investiční portfolio
-Desktopová aplikace pro evidenci investicí, stahování aktuálních devizových kurzů z API České národní banky a přepočet investicí v cizí měně na Kč. Přehled investic je zobrazen ve výsečovém grafu.
+Desktopová aplikace pro evidenci investic, stahování aktuálních devizových kurzů z API České národní banky a přepočet investic v cizí měně na Kč. Přehled investic je zobrazen ve výsečovém grafu.
 
 Naprogramováno v jazyce C# v prostředí Microsoft .NET Framework 4.7.2
 
